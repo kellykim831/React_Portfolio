@@ -2,7 +2,8 @@ import React from 'react';
 import Header from './header';
 import Contact from './Contact';
 import data from './mydata';
-import FooterPage from './footer';
+import '../App.css';
+
 const About = () => {
     return (
         <div>

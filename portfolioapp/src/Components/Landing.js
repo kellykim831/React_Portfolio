@@ -3,7 +3,6 @@ import Header from './header'
 import Home from './home';
 import Work from './Project';
 import Contact from './Contact';
-import FooterPage from './footer';
 
 import data from './mydata';
 

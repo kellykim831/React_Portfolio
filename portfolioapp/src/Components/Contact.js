@@ -1,6 +1,7 @@
 import React from 'react';
 import { FaEnvelope, FaLinkedin, FaGithub, FaFilePdf, FaFacebook } from "react-icons/fa";
 import FooterPage from './footer';
+import '../App.css';
 
 const Contact = ({ contactEmail, contactPara, socialLinks }) => {
 
