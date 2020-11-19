@@ -1,7 +1,7 @@
 import React from 'react';
 import { FaGithub } from "react-icons/fa";
 
-const Work = ({ projects }) => {
+const Project = ({ projects }) => {
     return (
         <div className="work_container">
             <h1>portfolio</h1>
@@ -23,4 +23,4 @@ const Work = ({ projects }) => {
         </div>
     )
 }
-export default Work
+export default Project
