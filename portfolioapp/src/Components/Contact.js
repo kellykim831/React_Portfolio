@@ -1,5 +1,6 @@
 import React from 'react';
 import { FaEnvelope, FaLinkedin, FaGithub, FaFilePdf, FaFacebook } from "react-icons/fa";
+import FooterPage from './footer';
 
 const Contact = ({ contactEmail, contactPara, socialLinks }) => {
 
@@ -39,6 +40,12 @@ const Contact = ({ contactEmail, contactPara, socialLinks }) => {
                         </a>
                     </li>
                 </ul>
+            </div>
+            <br></br>
+            <br></br>
+            <br></br>           
+            <div className="footer">
+            <FooterPage></FooterPage>
             </div>
         </div>
     );

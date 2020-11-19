@@ -422,6 +422,14 @@ a{
     font-size: 0.5rem;
   }
 
+  /* Footer */
+
+  .container_footer {
+    top: 100rem;
+    text-align: center;
+    
+  }
+
 
 
 

@@ -3,6 +3,7 @@ import Header from './header'
 import Home from './home';
 import Work from './Project';
 import Contact from './Contact';
+import FooterPage from './footer';
 
 import data from './mydata';
 
@@ -12,6 +13,7 @@ const Landing = () => {
         <Home name={data.landingPageName} paragraph={data.landingPagePara} authorImage={data.landingPageImage}></Home>
         <Work projects={data.projects}></Work>
         <Contact contactEmail={data.contactEmail} contactPara={data.contactPara} socialLinks={data.social}></Contact>
+
     </div>)
 }
 
