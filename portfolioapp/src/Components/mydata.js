@@ -1,3 +1,14 @@
+import authorImage from '../assets/KellyMonterey.jpg';
+import foofix from '../assets/foofixsquare.png';
+import weather from '../assets/weatherdashboard.png';
+import hamburger from '../assets/hamburgerapp.png';
+import roots from '../assets/rootsimage.png';
+import news from '../assets/newwdscheduler.png';
+import resume from '../assets/KKWEBDEVRESUME.pdf';
+
+
+
+
 export default {
     
     name: "Kelly Kim",
@@ -13,14 +24,14 @@ export default {
         "I'm a Full-Stack web developer. Let's get started on creating your masterpiece.",
 
     // Landing Page Image 
-    landingPageImage: "assets/KellyMonterey.jpg",
+    landingPageImage: authorImage,
 
     // my portfolio links to github and deployed links
     projects: [
         {
             id: 1, 
             title: "Project One: Food Fix", 
-            imageSrc: "assets/foofixsquare.png",
+            imageSrc: foofix,
             url: "https://kellykim831.github.io/FoodFix/",
             githublink: "https://github.com/kellykim831/FoodFix"
             
@@ -28,28 +39,28 @@ export default {
         {
             id: 2, 
             title: "Day Scheduler Repository",
-            imageSrc: "assets/newwdscheduler.png",
+            imageSrc: news,
             url: "https://kellykim831.github.io/Work-Day-Scheduler/",
             githublink: "https://github.com/kellykim831/Work-Day-Scheduler"
         },
         {
             id: 3, 
             title: "Dashboard Repository",
-            imageSrc: "assets/weatherdashboard.png",
+            imageSrc: weather,
             url: "https://kellykim831.github.io/weather_dashboard/",
             githublink: "https://github.com/kellykim831/weather_dashboard"
         },
         {
             id: 4, 
             title: "Hamburger Repository",
-            imageSrc: "assets/hamburgerapp.png",
+            imageSrc: hamburger,
             url: "https://shrouded-stream-56897.herokuapp.com/",
             githublink: "https://github.com/kellykim831/Burger"
         },
         {
             id: 5, 
             title: "Project Two: Roots Repository",
-            imageSrc: "assets/rootsimage.png",
+            imageSrc: roots,
             url: "https://mysterious-headland-00710.herokuapp.com/",
             githublink: "https://github.com/kellykim831/roots-a-social-garden"
         },
@@ -78,7 +89,7 @@ export default {
         },
         {
             name: "Resume",
-            url: "assets/KKWEBDEVRESUME.pdf",
+            url: resume
         }
     ],
 
