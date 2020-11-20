@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/React_Portfolio/static/css/main.f5d79f92.chunk.css",
+    "main.js": "/React_Portfolio/static/js/main.267aee43.chunk.js",
+    "main.js.map": "/React_Portfolio/static/js/main.267aee43.chunk.js.map",
+    "runtime-main.js": "/React_Portfolio/static/js/runtime-main.ef774426.js",
+    "runtime-main.js.map": "/React_Portfolio/static/js/runtime-main.ef774426.js.map",
+    "static/js/2.b75b0fdb.chunk.js": "/React_Portfolio/static/js/2.b75b0fdb.chunk.js",
+    "static/js/2.b75b0fdb.chunk.js.map": "/React_Portfolio/static/js/2.b75b0fdb.chunk.js.map",
+    "static/js/3.93e04c10.chunk.js": "/React_Portfolio/static/js/3.93e04c10.chunk.js",
+    "static/js/3.93e04c10.chunk.js.map": "/React_Portfolio/static/js/3.93e04c10.chunk.js.map",
+    "index.html": "/React_Portfolio/index.html",
+    "static/css/main.f5d79f92.chunk.css.map": "/React_Portfolio/static/css/main.f5d79f92.chunk.css.map",
+    "static/js/2.b75b0fdb.chunk.js.LICENSE.txt": "/React_Portfolio/static/js/2.b75b0fdb.chunk.js.LICENSE.txt",
+    "static/media/KKWEBDEVRESUME.222288a9.pdf": "/React_Portfolio/static/media/KKWEBDEVRESUME.222288a9.pdf",
+    "static/media/KellyMonterey.b5cdae15.jpg": "/React_Portfolio/static/media/KellyMonterey.b5cdae15.jpg",
+    "static/media/foofixsquare.e823a1f4.png": "/React_Portfolio/static/media/foofixsquare.e823a1f4.png",
+    "static/media/hamburgerapp.56288d02.png": "/React_Portfolio/static/media/hamburgerapp.56288d02.png",
+    "static/media/newwdscheduler.d68686ba.png": "/React_Portfolio/static/media/newwdscheduler.d68686ba.png",
+    "static/media/rootsimage.24797b99.png": "/React_Portfolio/static/media/rootsimage.24797b99.png",
+    "static/media/weatherdashboard.a8dc8d3f.png": "/React_Portfolio/static/media/weatherdashboard.a8dc8d3f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef774426.js",
+    "static/js/2.b75b0fdb.chunk.js",
+    "static/css/main.f5d79f92.chunk.css",
+    "static/js/main.267aee43.chunk.js"
+  ]
+}
