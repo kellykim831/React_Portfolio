@@ -5,6 +5,7 @@ import hamburger from '../assets/hamburgerapp.png';
 import roots from '../assets/rootsimage.png';
 import news from '../assets/newwdscheduler.png';
 import resume from '../assets/KKWEBDEVRESUME.pdf';
+import google from '../assets/googlebs.png';
 
 
 
@@ -66,8 +67,10 @@ export default {
         },
         {
             id: 6, 
-            title: "Project Three",
-            imageSrc: "https://via.placeholder.com/300"
+            title: "Google Book Search - Mern",
+            imageSrc: google,
+            url: "https://calm-journey-29608.herokuapp.com/",
+            githublink: "https://github.com/kellykim831/google-book-search-mern"
         }
     ],
 
