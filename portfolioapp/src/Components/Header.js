@@ -5,7 +5,7 @@ const Header = ({ name, contactEmail }) => {
     return (
         <div>
             <div className="header_container stretch">
-                <Link to="/"><h1>{name}</h1></Link>
+                <Link to="/React_Portfolio"><h1>{name}</h1></Link>
                 <nav>
                     <ul>
                         <li><Link to="/about">My Bio</Link></li>
