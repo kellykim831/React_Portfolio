@@ -3,7 +3,7 @@ import foofix from '../assets/foofixsquare.png';
 import weather from '../assets/weatherdashboard.png';
 import hamburger from '../assets/hamburgerapp.png';
 import roots from '../assets/rootsimage.png';
-import news from '../assets/newwdscheduler.png';
+import techtalk from '../assets/Tech-Talk.png';
 import resume from '../assets/KKWEBDEVRESUME.pdf';
 import google from '../assets/googlebs.png';
 
@@ -39,38 +39,38 @@ export default {
         },
         {
             id: 2, 
-            title: "Day Scheduler Repository",
-            imageSrc: news,
-            url: "https://kellykim831.github.io/Work-Day-Scheduler/",
-            githublink: "https://github.com/kellykim831/Work-Day-Scheduler"
-        },
-        {
-            id: 3, 
             title: "Dashboard Repository",
             imageSrc: weather,
             url: "https://kellykim831.github.io/weather_dashboard/",
             githublink: "https://github.com/kellykim831/weather_dashboard"
         },
         {
-            id: 4, 
+            id: 3, 
             title: "Hamburger Repository",
             imageSrc: hamburger,
             url: "https://shrouded-stream-56897.herokuapp.com/",
             githublink: "https://github.com/kellykim831/Burger"
         },
         {
-            id: 5, 
+            id: 4, 
             title: "Project Two: Roots Repository",
             imageSrc: roots,
             url: "https://mysterious-headland-00710.herokuapp.com/",
             githublink: "https://github.com/kellykim831/roots-a-social-garden"
         },
         {
-            id: 6, 
+            id: 5, 
             title: "Google Book Search - Mern",
             imageSrc: google,
             url: "https://calm-journey-29608.herokuapp.com/",
             githublink: "https://github.com/kellykim831/google-book-search-mern"
+        },
+        {
+            id: 6, 
+            title: "Project Three: Tech-Talk",
+            imageSrc: techtalk,
+            url: "https://evening-stream-73947.herokuapp.com/",
+            githublink: "https://github.com/kellykim831/tech-talk"
         }
     ],
 
